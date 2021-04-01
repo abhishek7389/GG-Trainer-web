@@ -26,7 +26,7 @@ SECRET_KEY = 'w$v((qxjm5v%jk=f2+6zcuc+bv300$1_psg$ooo)t2x@g*$6+v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['qwiklabs-gcp-03-feba0620b09d.uc.r.appspot.com']
 
 # Application definition
 

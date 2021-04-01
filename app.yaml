@@ -1,0 +1,7 @@
+Django
+djangorestframework
+scikit-learn
+numpy
+pandas
+gunicorn==19.3.0
+whitenoise
